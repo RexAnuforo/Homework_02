@@ -1,0 +1,9 @@
+.boxed {
+    border: 3px solid navy ;
+    margin: 50px;
+  }
+ 
+  body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+   }
